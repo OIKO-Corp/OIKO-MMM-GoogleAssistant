@@ -1,4 +1,4 @@
-# MMM-GoogleAssistant
+# MMM-GoogleAssistant (OIKO-Version)
 
 
 `MMM-GoogleAssistant` is an embedded Google assistant on MagicMirror.
